@@ -44,6 +44,6 @@ console.log("Si elegimos entre f y f tenemos: ", f && f);
 console.log("---------------");
 
 //Distinto
-console.log("Si t es igual a t es: ", t != t);
-console.log("Si t es igual a f es: ", t != f);
-console.log("Si f es igual a f es: ", f != f);
+console.log("Si t es distinto a t es: ", t != t);
+console.log("Si t es distinto a f es: ", t != f);
+console.log("Si f es distinto a f es: ", f != f);
